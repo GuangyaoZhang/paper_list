@@ -10,7 +10,7 @@
 - Active learning with statistical models(Jordan 1996 ,Active Learning)
 
 ### Coreset Selection
-- Olivier Bachem:http://olivierbachem.ch(A researcher at Google focused on coreset selection at his PHD study)
+- Olivier Bachem:http://olivierbachem.ch  (A researcher at Google focused on coreset selection at his PHD study)
 
 ### Synthesis Dataset and Data Argumentation
 - Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection (ICCV 2017)
